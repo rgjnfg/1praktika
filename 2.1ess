@@ -1,0 +1,5 @@
+start
+new privet string
+privet  "Привет"
+log string privet
+finish
