@@ -1,5 +1,9 @@
 start
-new privet string
-privet  "Привет"
-log string privet
+new age number
+set age 20
+if (age > 18)
+    log string "Человек может купить алкоголь"
+else
+    log string "Нельзя купить алкоголь"
+close
 finish
